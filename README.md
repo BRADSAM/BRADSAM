@@ -47,18 +47,10 @@ Currently pursuing my **BSc in Software Engineering**
 
 ## 💼 Featured Projects
 
-- 🏠 **[YourNextHome](https://yournexthome.co.ke)** – Real estate platform with advanced property filtering, multi-tenant support, and secure session handling.
+- 🏠 **[YourNextHome](https://yournexthome.co.ke)** 
 - 🛒 **UniShop** – Institutional e-commerce app for students/staff to order university merchandise.
 - 🎮 **Gaming Gear Purchase App** – UX-driven mobile experience for comparing and purchasing gaming equipment.
 - 🤖 **AI Chatbot Prototype** – Personal AI assistant for agricultural advice using OpenAI API.
-
----
-
-## 🌱 Currently Learning
-
-- AI Integration & Prompt Engineering  
-- Cloud-native development  
-- Advanced UX testing and accessibility best practices
 
 ---
 
