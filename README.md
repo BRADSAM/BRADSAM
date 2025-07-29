@@ -9,9 +9,7 @@
 
 I'm a results-driven software engineer who enjoys turning complex problems into clean, user-centric digital experiences. With a background in full-stack development, UX research, and cloud-based systems, I build tools that are not only functional—but impactful.
 
-Currently pursuing my **BSc in Software Engineering** , I’m also involved in community projects and tech mentorship for youth empowerment.
-
----
+Currently pursuing my **BSc in Software Engineering**
 
 ## 🚀 Tech Stack
 
