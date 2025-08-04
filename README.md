@@ -45,15 +45,6 @@ Currently pursuing my **BSc in Software Engineering**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </p>
 
-## 💼 Featured Projects
-
-- 🏠 **[YourNextHome](https://yournexthome.co.ke)** 
-- 🛒 **UniShop** – Institutional e-commerce app for students/staff to order university merchandise.
-- 🎮 **Gaming Gear Purchase App** – UX-driven mobile experience for comparing and purchasing gaming equipment.
-- 🤖 **AI Chatbot Prototype** – Personal AI assistant for agricultural advice using OpenAI API.
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bradley-sammy)   
